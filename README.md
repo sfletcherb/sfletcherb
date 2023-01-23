@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on QA Testing<br>👯 I’m looking to collaborate on develop web projects<br>🌱 I’m currently learning React y backend programming<br>💬 Ask me about Web Design, React, JavaScript<br>⚡ Fun fact learning everyday
+🔭 I’m currently working on QA Testing<br>👯 I’m looking to collaborate on develop web projects<br>🌱 I’m currently learning React y backend programming<br>💬 Ask me about Web Design, React, JavaScript<br>⚡ Fun fact new to technology
 
 
 ## 🌐 Socials:
